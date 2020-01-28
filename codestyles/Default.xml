@@ -1,7 +1,10 @@
 <code_scheme name="Default" version="173">
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
   </JSCodeStyleSettings>
+  <stylecop>
+    <option name="ENABLED" value="true" />
+  </stylecop>
   <codeStyleSettings language="JavaScript">
     <indentOptions>
       <option name="SMART_TABS" value="true" />
