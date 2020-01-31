@@ -2,9 +2,9 @@
   <JSCodeStyleSettings version="0">
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
   </JSCodeStyleSettings>
-  <stylecop>
-    <option name="ENABLED" value="true" />
-  </stylecop>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="JavaScript">
     <indentOptions>
       <option name="SMART_TABS" value="true" />
